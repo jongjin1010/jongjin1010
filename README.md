@@ -13,16 +13,8 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div><br><br><br>
 
-<div align=center><h1>TROPHY</h1></div>
-<div align=center>
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=jongjin1010)
-  
-</div><br><br>
-
 <div align=center><h1>STATS</h1></div>
 <div align=center>
 
-![stats](https://github-readme-stats.vercel.app/api?username=jongjin1010&show_icons=true) 
-  
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongjin1010&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jongjin1010)
 <div>
