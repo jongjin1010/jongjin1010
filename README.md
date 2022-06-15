@@ -3,8 +3,7 @@
 
 <div align=center><h1>STACKS</h1></div>
 <div align=center> 
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> 
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+
 </div><br><br><br>
 
 <div align=center><h1>STATS</h1></div>
