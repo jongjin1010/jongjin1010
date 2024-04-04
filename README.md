@@ -5,6 +5,6 @@
 
 사용자에게 좋은 경험을 전달하는 일에 큰 보람을 느낍니다.
 
-https://dev-jongjin.oopy.io
+https://dev-jongjin.oopy.io
 
 contact -> ohjongjin051010@gmail.com
