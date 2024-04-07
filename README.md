@@ -8,3 +8,4 @@
 https://dev-jongjin.oopy.io
 
 contact -> ohjongjin051010@gmail.com
+channel -> https://www.linkedin.com/in/ohjongjin/
