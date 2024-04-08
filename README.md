@@ -8,6 +8,8 @@
 ---
 💼 Web Portfolio -> https://dev-jongjin.oopy.io
 
+📝 Tistory -> https://roronoa-jongjin.tistory.com
+
 📧 Contact -> ohjongjin051010@gmail.com
 
 🙋 Channel -> https://www.linkedin.com/in/ohjongjin/
